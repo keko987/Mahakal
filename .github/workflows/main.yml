@@ -1,9 +1,8 @@
-Download&Install
 
-### git clone https://github.com/Ha3MrX/facebook-cracker
+git clone https://github.com/Ha3MrX/facebook-cracker
    
-### cd facebook-cracker
+cd facebook-cracker
 
-### chmod +x facebook.py
+chmod +x facebook.py
 
-### python facebook.py
+python facebook.py
